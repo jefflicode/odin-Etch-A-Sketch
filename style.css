@@ -1,0 +1,17 @@
+/* .container-first-row, .container-second-row, .container-third-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.grid1, .grid2, .grid3, .grid4, .grid5, .grid6, .grid7, .grid8, .grid9 {
+    height: 50px;
+    width: 50px;
+    border: solid 2px;
+    border-color: black;
+}  */
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
